@@ -1,8 +1,8 @@
-import 'package:chatting_flutter_/screens/chat_screen.dart';
+import 'package:InfinitApp/constants.dart';
+import 'package:InfinitApp/screens/chat_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:chatting_flutter_/constants.dart';
-import 'package:chatting_flutter_/widgets/rounded_button.dart';
+import 'package:InfinitApp/widgets/rounded_button.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 

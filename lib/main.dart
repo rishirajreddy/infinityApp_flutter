@@ -1,8 +1,8 @@
-import 'package:chatting_flutter_/screens/welcome_screen.dart';
+import 'package:InfinitApp/screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:chatting_flutter_/screens/login_screen.dart';
-import 'package:chatting_flutter_/screens/registration_screen.dart';
-import 'package:chatting_flutter_/screens/chat_screen.dart';
+import 'package:InfinitApp/screens/login_screen.dart';
+import 'package:InfinitApp/screens/registration_screen.dart';
+import 'package:InfinitApp/screens/chat_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 void main() async {

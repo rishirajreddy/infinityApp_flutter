@@ -1,7 +1,7 @@
-import 'package:chatting_flutter_/constants.dart';
-import 'package:chatting_flutter_/screens/login_screen.dart';
-import 'package:chatting_flutter_/screens/registration_screen.dart';
-import 'package:chatting_flutter_/widgets/rounded_button.dart';
+import 'package:InfinitApp/constants.dart';
+import 'package:InfinitApp/screens/login_screen.dart';
+import 'package:InfinitApp/screens/registration_screen.dart';
+import 'package:InfinitApp/widgets/rounded_button.dart';
 import 'package:flutter/material.dart';
 import 'package:delayed_display/delayed_display.dart';
 
